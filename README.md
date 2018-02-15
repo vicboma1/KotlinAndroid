@@ -12,3 +12,10 @@
 ### Introduction 
 * [Fragment Manager (Basic)](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5)
 * [Fragment Manager (w/ Ext Function)](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5Ext)
+
+
+
+### Examples
+
+#### Fragment Manager
+![Fragment Manager](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex1.gif)
