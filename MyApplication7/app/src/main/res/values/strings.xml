@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_ready_fragment">Hello Ready fragment</string>
+    <string name="hello_lobby_fragment">Hello Lobby fragment</string>
+    <string name="hello_menu_fragment">Hello Menu fragment</string>
+    <string name="hello_next_Level_fragment">Hello Next Level fragment</string>
+    <string name="hello_game_Over_fragment">Hello GameOver fragment</string>
+    <string name="hello_game_fragment">Hello Game fragment</string>
+</resources>
