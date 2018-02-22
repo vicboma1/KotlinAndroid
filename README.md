@@ -21,7 +21,8 @@
 
 ![Finite-State machine](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex2.gif)
 
-
+* [Finite-State machine with transition animation | Coroutines - Basic ](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication8)
+![Finite-State machine with transition animation | Coroutines ](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex8.gif)
 
 
 
