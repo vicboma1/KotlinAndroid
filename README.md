@@ -1,4 +1,4 @@
-# Kotlin Mobile PoC Master UV 2018
+# Kotlin Mobile | Android | PoC Master UV 2018
 
 --->>>  [Repo: Kotlin Koans](https://github.com/vicboma1/Kotlin-koans)   <<<---
 
@@ -21,8 +21,9 @@
 
 ![Finite-State machine](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex2.gif)
 
-* [Finite-State machine with transition animation | Coroutines - Basic ](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication8)
-![Finite-State machine with transition animation | Coroutines ](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex8.gif)
+* [Finite-State machine w/ color animation transition | Coroutines - Basic ](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication8)
+
+![Finite-State machine w/ color animation transition  | Coroutines ](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex8.gif)
 
 
 
