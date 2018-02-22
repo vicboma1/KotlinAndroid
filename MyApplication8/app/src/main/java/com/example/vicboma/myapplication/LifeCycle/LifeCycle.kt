@@ -1,10 +1,4 @@
-package com.example.vicboma.myapplication.LifeCycle
-
-import android.app.Activity
-import android.support.v7.app.AppCompatActivity
-import com.example.vicboma.myapplication.Fragments.Exts.changeFragment
-import com.example.vicboma.myapplication.Fragments.child.*
-import com.example.vicboma.myapplication.R
+package com.example.vicboma.myapplication.lifeCycle
 
 enum class LIFE_CYCLE {
     LOBBY,

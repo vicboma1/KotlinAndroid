@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/holo_orange_dark"
     android:id="@+id/frameLayoutGameOver"
-    tools:context=".Fragments.child.GameOver">
+    tools:context=".fragments.child.GameOver">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

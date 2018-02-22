@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/holo_red_light"
     android:id="@+id/frameLayoutGame"
-    tools:context=".Fragments.child.Game">
+    tools:context=".fragments.child.Game">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

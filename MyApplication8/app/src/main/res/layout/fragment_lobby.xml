@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/holo_blue_dark"
     android:id="@+id/frameLayoutLobby"
-    tools:context=".Fragments.child.Lobby">
+    tools:context=".fragments.child.Lobby">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
