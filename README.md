@@ -11,9 +11,11 @@
 
 ### Examples 
 * [Hello World w/Button](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication0)
+
 ![hw](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex0.gif)
 
 * [Transition Activity](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication1)
+
 ![TA](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex01.gif)
 
 * [Fragment Manager - Basic](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5)
