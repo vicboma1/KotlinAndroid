@@ -10,6 +10,12 @@
 
 
 ### Examples 
+* [Hello World w/Button](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication0)
+![hw](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/helloWorldButton.gif)
+
+* [Transition Activity](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication1)
+![TA](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/TransitionActivity.gif)
+
 * [Fragment Manager - Basic](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5)
 * [Fragment Manager w/ Ext Function](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5Ext)
 * [Fragment Manager w/ Ext | High Order | Lambda Functions](https://github.com/vicboma1/KotlinMobilePoC_MasterUV2018/tree/master/MyApplication5H)
