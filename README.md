@@ -23,7 +23,7 @@
 * Fragment Manager w/ Ext | High Order | Lambda Functions]
 * Finite-State machine - Basic 
 * Finite-State machine w/ color animation transition  | Coroutines 
-
+* Sqlite App - Model, contract, DML, DDL, CRUD
 
 
 ### Examples
@@ -55,6 +55,9 @@
 
 ![Finite-State machine w/ color animation transition  | Coroutines ](https://raw.githubusercontent.com/vicboma1/KotlinMobilePoC_MasterUV2018/master/Assets/ex8.gif)
 
+* [Sqlite App](https://github.com/vicboma1/Kotlin-Android-Sqlite)
+
+![sqlite](https://github.com/vicboma1/Kotlin-Android-Sqlite/raw/master/assets/kotlinAndroidSqlite.gif)
 
 
 
