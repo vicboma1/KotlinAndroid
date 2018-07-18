@@ -23,7 +23,7 @@
 * Fragment Manager w/ Ext | High Order | Lambda Functions]
 * Finite-State machine - Basic 
 * Finite-State machine w/ color animation transition  | Coroutines 
-* Sqlite App - Model, contract, DML, DDL, CRUD
+* Sqlite App - Model, Contract, DML, DDL, CRUD
 
 
 ### Examples
